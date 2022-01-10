@@ -1,0 +1,52 @@
+.form{
+    padding-left: 270px;
+    margin: 50px;
+    width: 70%;
+}
+.logos img{
+    width: 80px;
+    margin-left: 50px;
+}
+
+.text{
+    margin-left: 100px;
+}
+.social h4{
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 50px;
+}
+#mail {
+    width: 40px;
+}
+.logos{
+    padding-left: 190px;
+    margin-bottom: 100px ;
+}
+.header{
+    margin-left: 550px;
+}
+.send{
+    font-family: 'Abel', sans-serif;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 208px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.footer{
+    position: relative;
+    height: 220px;
+    bottom: 0%;
+    padding: 100px;
+    padding-top: 50px;
+}
+.footertitle{
+    transform: scale(0.9);
+    padding-left: 450px;
+}
+.copy{
+    bottom: -90px;
+    padding-left: 435px;
+    position: relative;
+}
